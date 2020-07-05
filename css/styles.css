@@ -22,6 +22,10 @@ body{
     color:floralwhite;
 }
 
+.footer a{
+    color: floralwhite;
+}
+
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
