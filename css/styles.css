@@ -1,5 +1,5 @@
 body{
-    padding:55px 0px 0px 0px;
+    padding:57px 0px 0px 0px;
     z-index:0;
 }
 
@@ -40,5 +40,10 @@ address{
 }
 
 .navbar-dark {
-    background-color: #512DA8;
+    background-color: #312e38 !important;
 }
+
+.custombtn{
+    text-decoration: none !important;
+}
+
