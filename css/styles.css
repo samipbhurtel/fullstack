@@ -54,3 +54,6 @@ address{
     padding: 10px;
 }
 
+.customloginbtn {
+ cursor: pointer;
+}
